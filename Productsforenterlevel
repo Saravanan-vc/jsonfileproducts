@@ -3,36 +3,36 @@
         "gram":"42g",
         "name":"KurKure Green Chutnry with spicy & Hot",
         "price":40,
-        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/Lays-Cheddar-Sour-Cream.png?alt=media&token=f543b183-5d9a-446e-b210-6fe143d5baf4",
+        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/Lays-Cheddar-Sour-Cream.png?alt=media&token=f543b183-5d9a-446e-b210-6fe143d5baf4"
     },
     {
         "gram":"180g",
         "name":"Mayora Malkist chesse",
         "price":50,
-        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/mal.png?alt=media&token=732336d3-538f-4878-b34c-20f12cf820fe",
+        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/mal.png?alt=media&token=732336d3-538f-4878-b34c-20f12cf820fe"
     },
      {
         "gram":"750ml",
         "name":"Coca-cola soft Drink",
         "price":40,
-        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/bottle-coca-cola-png-transparent-2.png?alt=media&token=f429f75f-3f99-4b71-8b1f-ba906685a89e",
+        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/bottle-coca-cola-png-transparent-2.png?alt=media&token=f429f75f-3f99-4b71-8b1f-ba906685a89e"
     },
      {
         "gram":"250ml",
         "name":"Pepsi tin soft Drink",
         "price":80,
-        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/R.png?alt=media&token=adcb548e-7f73-4900-8359-07589e60462a",
+        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/R.png?alt=media&token=adcb548e-7f73-4900-8359-07589e60462a"
     },
      {
         "gram":"54g",
         "name":"Lays Cheddar & sour Cream",
         "price":40,
-        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/Lays-Cheddar-Sour-Cream.png?alt=media&token=f543b183-5d9a-446e-b210-6fe143d5baf4",
+        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/Lays-Cheddar-Sour-Cream.png?alt=media&token=f543b183-5d9a-446e-b210-6fe143d5baf4"
     },
  {
         "gram":"75ml",
         "name":"Mountain Dew soft Drink",
         "price":40,
-        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/30565-5-mountain-dew-photos.png?alt=media&token=3ec53197-9d29-49ed-b9ce-5d4358fb8701",
-    },
+        "image":"https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/30565-5-mountain-dew-photos.png?alt=media&token=3ec53197-9d29-49ed-b9ce-5d4358fb8701"
+    }
 ]
