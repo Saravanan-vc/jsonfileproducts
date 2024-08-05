@@ -1,11 +1,11 @@
-{
+[
   {
-'bannerImage':'https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/meat.jpg?alt=media&token=29cf4be6-08bb-4386-95d8-e72ab375e117',
+    "bannerImage": "https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/meat.jpg?alt=media&token=29cf4be6-08bb-4386-95d8-e72ab375e117"
+  },
+  {
+    "bannerImage": "https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/magi.jpg?alt=media&token=c14efb5f-5f98-43e3-ad67-c85cc765122b"
+  },
+  {
+    "bannerImage": "https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/sent.jpg?alt=media&token=c3b22075-0798-4ed4-93c2-53c074406701"
   }
-{
-'bannerImage':'https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/magi.jpg?alt=media&token=c14efb5f-5f98-43e3-ad67-c85cc765122b',
-  }
-{
-'bannerImage':'https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/sent.jpg?alt=media&token=c3b22075-0798-4ed4-93c2-53c074406701',
-  }
-}
+]
