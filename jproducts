@@ -1,3 +1,4 @@
+[
 {
     "id": 1,
     "name": "Wireless jbl base",
@@ -10,3 +11,16 @@
     "connectivity": "Bluetooth",
     "wireless": true
 }
+{
+    "id": 2,
+    "name": "Wireless sony base",
+    "description": "Premium speaker with active base",
+    "price": 349.99,
+    "image": "https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/electricalproducts%2Fjbl%20speaker%20tiny%20to%20masive.png?alt=media&token=44b7d9a8-4c63-463e-9bba-1d07222cd946",
+    "rating": 4.5,
+    "brand": "SONY",
+    "color": "grey",
+    "connectivity": "Bluetooth",
+    "wireless": true
+}
+]
