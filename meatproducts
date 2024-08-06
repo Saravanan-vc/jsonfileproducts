@@ -1,0 +1,30 @@
+[
+  {
+    "mname": "Relish Mutton liver",
+    "mgram": "250gm",
+    "mimage": "https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/meatproducts%2Fmeat.webp?alt=media&token=37f9d051-dc2e-4c74-8774-ee23590aadd6",
+    "moldprice": 325,
+    "mprice": 300
+  },
+  {
+    "mname": "Relish chicken with skin",
+    "mgram": "250G",
+    "mimage": "https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/meatproducts%2Fraw_chicken.jpg?alt=media&token=51d0c804-94e0-42b1-90e5-af3d44207aac",
+    "moldprice": 345,
+    "mprice": 300
+  },
+  {
+    "mname": "Relish chicken breast",
+    "mgram": "500G",
+    "mimage": "https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/meatproducts%2Fchickenbreast.webp?alt=media&token=68780ad4-8c3e-49d5-9a74-ee3dc0f54b6f",
+    "moldprice": 625,
+    "mprice": 500
+  },
+  {
+    "mname": "Relish mutton choops",
+    "mgram": "250g",
+    "mimage": "https://firebasestorage.googleapis.com/v0/b/vbhcg-f1c60.appspot.com/o/meatproducts%2Frawmutton.jpg?alt=media&token=29f9edd2-d64d-4a72-a229-3b2569d5b01c",
+    "moldprice": 350,
+    "mprice": 300
+  }
+]
